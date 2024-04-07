@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Currency Converter for levels.fyi",
+    "version": "1.0",
+    "description": "Converts currency on levels.fyi to your preferred currency.",
+    "permissions": ["activeTab", "storage"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.levels.fyi/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "letter-l.png"
+    }
+  }
+  
