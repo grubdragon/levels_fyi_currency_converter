@@ -9,3 +9,6 @@ To install the extension, follow these steps:
 4. Activate developer mode by turning on the switch on the top right of the extensions page.
 5. Click on the "Load unpacked" button on the top left of the extensions page.
 6. Select the folder that contains the manifest.json file from the extracted zip file.
+
+# Attribution
+<a href="https://www.flaticon.com/free-icons/letter-l" title="letter l icons">Letter l icons created by NajmunNahar - Flaticon</a>
