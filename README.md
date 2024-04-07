@@ -10,8 +10,12 @@ To install the extension, follow these steps:
 5. Click on the "Load unpacked" button on the top left of the extensions page.
 6. Select the folder that contains the manifest.json file from the extracted zip file.
 
+# What works?
+I targeted pages which don't have the autoconversion. Like these: 
+- https://www.levels.fyi/companies/google/salaries/software-engineer/locations/india?country=113
+
 # Issues
-To file a bug, please post a screenshot with marked with the issue areas. Honestly, only few fields are supported at the moment, but extending it shouldn't be a problem, so let me know which piece of the page matters to you!
+To file a bug, please post a link and a screenshot with marked with the issue areas. I've added only a few fields which aren't supported by levels, but happy to add more if you like!
 
 # Attribution
 <a href="https://www.flaticon.com/free-icons/letter-l" title="letter l icons">Letter l icons created by NajmunNahar - Flaticon</a>
