@@ -10,5 +10,8 @@ To install the extension, follow these steps:
 5. Click on the "Load unpacked" button on the top left of the extensions page.
 6. Select the folder that contains the manifest.json file from the extracted zip file.
 
+# Issues
+To file a bug, please post a screenshot with marked with the issue areas. Honestly, only few fields are supported at the moment, but extending it shouldn't be a problem, so let me know which piece of the page matters to you!
+
 # Attribution
 <a href="https://www.flaticon.com/free-icons/letter-l" title="letter l icons">Letter l icons created by NajmunNahar - Flaticon</a>
